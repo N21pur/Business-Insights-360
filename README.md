@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 
 
-[Live Report Link]([https://www.novypro.com/project/atliq-hardware-business-insights-360](https://app.powerbi.com/view?r=eyJrIjoiYWNiOWM2NTktMGQ4Yi00OTgxLWEzNjEtODVmYzdjODAyOGEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYWNiOWM2NTktMGQ4Yi00OTgxLWEzNjEtODVmYzdjODAyOGEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
